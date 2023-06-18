@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 
 
+
 public class BaseClass {
 public static WebDriver driver;
 public static void openBrowser() throws IOException, InterruptedException {
